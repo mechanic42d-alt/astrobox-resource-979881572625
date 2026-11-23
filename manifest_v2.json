@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "979881572625",
+    "restype": "watchface",
+    "name": "膨胀大数字",
+    "description": "复古像素电视纹理造型",
+    "preview": [
+      "media/展示1.png",
+      "media/展示2.png",
+      "media/展示3.png"
+    ],
+    "icon": "media/exec-be0e1385-2db9-4d99-a882-944361505566.png",
+    "cover": "media/download-4.jpg",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "0.9.0",
+      "file_name": "downloads/科幻显像管.bin",
+      "versionCode": 2304
+    },
+    "xmb10nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/科幻显像管.bin",
+      "versionCode": 2304
+    },
+    "xmb11": {
+      "version": "0.9.0",
+      "file_name": "downloads/科幻显像管.bin",
+      "versionCode": 2304
+    },
+    "xmb11nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/科幻显像管.bin",
+      "versionCode": 2304
+    }
+  },
+  "ext": {}
+}
