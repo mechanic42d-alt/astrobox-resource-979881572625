@@ -10,7 +10,7 @@
       "media/展示3.png"
     ],
     "icon": "media/exec-be0e1385-2db9-4d99-a882-944361505566.png",
-    "cover": "media/download-4.jpg",
+    "cover": "media/01-cover.jpg",
     "author": [
       {
         "name": "914173667",
@@ -21,25 +21,51 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "0.9.0",
-      "file_name": "downloads/科幻显像管.bin",
-      "versionCode": 2304
+      "version": "0.9.1",
+      "file_name": "downloads/膨胀大数字.bin",
+      "versionCode": 2305,
+      "updatelogs": [
+        {
+          "version": "0.9.1",
+          "content": "将安装包显示名称统一为膨胀大数字\n更新选定绿色头图并接入爱发电购买授权"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "0.9.0",
-      "file_name": "downloads/科幻显像管.bin",
-      "versionCode": 2304
+      "version": "0.9.1",
+      "file_name": "downloads/膨胀大数字.bin",
+      "versionCode": 2305,
+      "updatelogs": [
+        {
+          "version": "0.9.1",
+          "content": "将安装包显示名称统一为膨胀大数字\n更新选定绿色头图并接入爱发电购买授权"
+        }
+      ]
     },
     "xmb11": {
-      "version": "0.9.0",
-      "file_name": "downloads/科幻显像管.bin",
-      "versionCode": 2304
+      "version": "0.9.1",
+      "file_name": "downloads/膨胀大数字.bin",
+      "versionCode": 2305,
+      "updatelogs": [
+        {
+          "version": "0.9.1",
+          "content": "将安装包显示名称统一为膨胀大数字\n更新选定绿色头图并接入爱发电购买授权"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "0.9.0",
-      "file_name": "downloads/科幻显像管.bin",
-      "versionCode": 2304
+      "version": "0.9.1",
+      "file_name": "downloads/膨胀大数字.bin",
+      "versionCode": 2305,
+      "updatelogs": [
+        {
+          "version": "0.9.1",
+          "content": "将安装包显示名称统一为膨胀大数字\n更新选定绿色头图并接入爱发电购买授权"
+        }
+      ]
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
